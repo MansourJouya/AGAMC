@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "AGAMC: Adaptive Graph Augmentation for Multi-View Clustering"
+type: software
+authors:
+  - family-names: Jouya
+    given-names: Mansour
+    affiliation: "Department of Computer Engineering, University of Kurdistan, Sanandaj, Iran"
+  - family-names: Abdollahpouri
+    given-names: Alireza
+    affiliation: "Department of Computer Engineering, University of Kurdistan, Sanandaj, Iran"
+license: MIT
+repository-code: "https://github.com/<your-username>/AGAMC"
+preferred-citation:
+  type: article
+  title: "Adaptive Graph Augmentation for Multi-View Clustering: A Contrastive Learning Approach with View-Specific Augmentations"
+  authors:
+    - family-names: Jouya
+      given-names: Mansour
+    - family-names: Abdollahpouri
+      given-names: Alireza
+  year: 2026

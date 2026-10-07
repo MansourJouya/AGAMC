@@ -1,0 +1,4 @@
+# Optional extras - only needed for some visualisations in agamc.py.
+# The core pipeline runs without them (missing packages only produce a warning).
+umap-learn        # output_artifacts.include.tsne_umap, interactive_3d
+plotly            # output_artifacts.include.interactive_3d

@@ -1,0 +1,10 @@
+# Core dependencies for AGAMC (tested with Python 3.12)
+# NOTE: install PyTorch FIRST using the official selector for your CUDA version:
+#       https://pytorch.org/get-started/locally/
+torch==2.5.1
+torch_geometric==2.8.0
+numpy
+scipy
+scikit-learn
+matplotlib
+networkx          # required by download_data.py (YouTube); optional for graph_structure plot
