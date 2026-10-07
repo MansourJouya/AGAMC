@@ -413,7 +413,7 @@ If you use this code, please cite the paper (see also `CITATION.cff`):
   title   = {Adaptive Graph Augmentation for Multi-View Clustering: A Contrastive Learning Approach with View-Specific Augmentations},
   author  = {Jouya, Mansour and Abdollahpouri, Alireza},
   year    = {2026},
-  note    = {Code: https://github.com/<your-username>/AGAMC}
+  note    = {Code: https://github.com/MansourJouya/AGAMC}
 }
 ```
 
